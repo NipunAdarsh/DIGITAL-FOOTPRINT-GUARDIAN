@@ -2,13 +2,6 @@
 
 > **A production-ready cybersecurity intelligence dashboard** — scan email breaches, analyse password strength, detect phishing URLs, track data broker removals, and get AI-driven remediation guidance, all in one sleek terminal-themed UI.
 
----
-
-## 📸 Screenshots
-
-> _(Add your own screenshots here after running the app)_
-
----
 
 ## 🚀 Features
 
@@ -371,14 +364,13 @@ The API is called with `response_format: { type: 'json_object' }` for determinis
 
 ## 📄 License
 
-This project is open-sourced under the **MIT License**. See `LICENSE` for details.
-
----
+This project is open-sourced.
 
 ## 👤 Author
 
 Built with 🛡️ by **Nipun**  
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-handle>)
+[GitHub](
+https://github.com/NipunAdarsh) · [LinkedIn](https://www.linkedin.com/in/nipun-adarsh-3a3848380/)
 
 ---
 
