@@ -111,7 +111,7 @@ digital-footprint-guardian/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/digital-footprint-guardian.git
+git clone https://github.com/NipunAdarsh/DIGITAL-FOOTPRINT-GUARDIAN.git
 cd digital-footprint-guardian
 ```
 
